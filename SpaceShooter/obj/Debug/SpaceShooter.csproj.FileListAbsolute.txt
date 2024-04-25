@@ -1,0 +1,13 @@
+D:\Work\VB\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\Work\VB\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\Work\VB\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\Work\VB\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+D:\Work\VB\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
